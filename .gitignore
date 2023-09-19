@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+out/
+log/
+/VDM.iml
+/package
+/db
+/configs
+/cookies
+/tmp
+/engines
+/.DS_Store
